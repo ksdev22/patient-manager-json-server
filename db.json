@@ -9,7 +9,7 @@
       "vaccinationStatus": "Partially Vaccinated",
       "vaccineName": "Not Vaccinated",
       "symptoms": "Chest pain",
-      "medicalHistory": null,
+      "medicalHistory": "",
       "site": "Bangalore"
     },
     {
@@ -21,7 +21,7 @@
       "vaccinationStatus": "Fully Vaccinated",
       "vaccineName": "Covishield",
       "symptoms": "Shortness in breathing",
-      "medicalHistory": null,
+      "medicalHistory": "",
       "site": "Bangalore"
     },
     {
@@ -33,7 +33,7 @@
       "vaccinationStatus": "Partially Vaccinated",
       "vaccineName": "Covaxin",
       "symptoms": "Fatigue",
-      "medicalHistory": null,
+      "medicalHistory": "",
       "site": "Bangalore"
     },
     {
@@ -45,7 +45,7 @@
       "vaccinationStatus": "Partially Vaccinated",
       "vaccineName": "Covishield",
       "symptoms": "Chest pain",
-      "medicalHistory": null,
+      "medicalHistory": "",
       "site": "Mumbai"
     },
     {
@@ -57,7 +57,7 @@
       "vaccinationStatus": "Partially Vaccinated",
       "vaccineName": "Covishield",
       "symptoms": "Shortness in breathing",
-      "medicalHistory": null,
+      "medicalHistory": "",
       "site": "Bangalore"
     },
     {
@@ -69,7 +69,7 @@
       "vaccinationStatus": "Not Vaccinated",
       "vaccineName": "Covishield",
       "symptoms": "Fatigue",
-      "medicalHistory": null,
+      "medicalHistory": "",
       "site": "Mumbai"
     },
     {
@@ -81,7 +81,7 @@
       "vaccinationStatus": "Fully Vaccinated",
       "vaccineName": "Covishield",
       "symptoms": "Headache",
-      "medicalHistory": null,
+      "medicalHistory": "",
       "site": "Bangalore"
     },
     {
@@ -93,7 +93,7 @@
       "vaccinationStatus": "Not Vaccinated",
       "vaccineName": "Not Vaccinated",
       "symptoms": "Fatigue",
-      "medicalHistory": null,
+      "medicalHistory": "",
       "site": "Bangalore"
     },
     {
@@ -105,7 +105,7 @@
       "vaccinationStatus": "Partially Vaccinated",
       "vaccineName": "Not Vaccinated",
       "symptoms": "Fatigue",
-      "medicalHistory": null,
+      "medicalHistory": "",
       "site": "Bangalore"
     },
     {
@@ -117,7 +117,7 @@
       "vaccinationStatus": "Partially Vaccinated",
       "vaccineName": "Not Vaccinated",
       "symptoms": "Fatigue",
-      "medicalHistory": null,
+      "medicalHistory": "",
       "site": "Bangalore"
     },
     {
@@ -129,7 +129,7 @@
       "vaccinationStatus": "Fully Vaccinated",
       "vaccineName": "Covishield",
       "symptoms": "Loss of Smell & Taste",
-      "medicalHistory": null,
+      "medicalHistory": "",
       "site": "Mumbai"
     },
     {
@@ -141,7 +141,7 @@
       "vaccinationStatus": "Partially Vaccinated",
       "vaccineName": "Not Vaccinated",
       "symptoms": "Fatigue",
-      "medicalHistory": null,
+      "medicalHistory": "",
       "site": "Mumbai"
     },
     {
@@ -153,7 +153,7 @@
       "vaccinationStatus": "Partially Vaccinated",
       "vaccineName": "Covaxin",
       "symptoms": "Fatigue",
-      "medicalHistory": null,
+      "medicalHistory": "",
       "site": "Bangalore"
     },
     {
@@ -165,7 +165,7 @@
       "vaccinationStatus": "Not Vaccinated",
       "vaccineName": "Not Vaccinated",
       "symptoms": "Shortness in breathing",
-      "medicalHistory": null,
+      "medicalHistory": "",
       "site": "Bangalore"
     },
     {
@@ -177,7 +177,7 @@
       "vaccinationStatus": "Partially Vaccinated",
       "vaccineName": "Covaxin",
       "symptoms": "Headache",
-      "medicalHistory": null,
+      "medicalHistory": "",
       "site": "Bangalore"
     },
     {
@@ -189,7 +189,7 @@
       "vaccinationStatus": "Not Vaccinated",
       "vaccineName": "Covaxin",
       "symptoms": "Loss of Smell & Taste",
-      "medicalHistory": null,
+      "medicalHistory": "",
       "site": "Mumbai"
     },
     {
@@ -201,7 +201,7 @@
       "vaccinationStatus": "Partially Vaccinated",
       "vaccineName": "Covaxin",
       "symptoms": "Chest pain",
-      "medicalHistory": null,
+      "medicalHistory": "",
       "site": "Mumbai"
     },
     {
@@ -213,7 +213,7 @@
       "vaccinationStatus": "Fully Vaccinated",
       "vaccineName": "Covaxin",
       "symptoms": "Shortness in breathing",
-      "medicalHistory": null,
+      "medicalHistory": "",
       "site": "Bangalore"
     },
     {
@@ -225,7 +225,7 @@
       "vaccinationStatus": "Not Vaccinated",
       "vaccineName": "Not Vaccinated",
       "symptoms": "Cough",
-      "medicalHistory": null,
+      "medicalHistory": "",
       "site": "Mumbai"
     },
     {
@@ -237,7 +237,7 @@
       "vaccinationStatus": "Partially Vaccinated",
       "vaccineName": "Not Vaccinated",
       "symptoms": "Chest pain",
-      "medicalHistory": null,
+      "medicalHistory": "",
       "site": "Bangalore"
     },
     {
@@ -249,7 +249,7 @@
       "vaccinationStatus": "Fully Vaccinated",
       "vaccineName": "Not Vaccinated",
       "symptoms": "Headache",
-      "medicalHistory": null,
+      "medicalHistory": "",
       "site": "Bangalore"
     },
     {
@@ -261,7 +261,7 @@
       "vaccinationStatus": "Fully Vaccinated",
       "vaccineName": "Covishield",
       "symptoms": "Loss of Smell & Taste",
-      "medicalHistory": null,
+      "medicalHistory": "",
       "site": "Bangalore"
     },
     {
@@ -273,7 +273,7 @@
       "vaccinationStatus": "Fully Vaccinated",
       "vaccineName": "Covishield",
       "symptoms": "Shortness in breathing",
-      "medicalHistory": null,
+      "medicalHistory": "",
       "site": "Mumbai"
     },
     {
@@ -285,7 +285,7 @@
       "vaccinationStatus": "Not Vaccinated",
       "vaccineName": "Not Vaccinated",
       "symptoms": "Cough",
-      "medicalHistory": null,
+      "medicalHistory": "",
       "site": "Mumbai"
     },
     {
@@ -297,7 +297,7 @@
       "vaccinationStatus": "Fully Vaccinated",
       "vaccineName": "Covishield",
       "symptoms": "Shortness in breathing",
-      "medicalHistory": null,
+      "medicalHistory": "",
       "site": "Bangalore"
     },
     {
@@ -309,7 +309,7 @@
       "vaccinationStatus": "Not Vaccinated",
       "vaccineName": "Covishield",
       "symptoms": "Fatigue",
-      "medicalHistory": null,
+      "medicalHistory": "",
       "site": "Mumbai"
     },
     {
@@ -321,7 +321,7 @@
       "vaccinationStatus": "Not Vaccinated",
       "vaccineName": "Not Vaccinated",
       "symptoms": "Fatigue",
-      "medicalHistory": null,
+      "medicalHistory": "",
       "site": "Bangalore"
     },
     {
@@ -333,7 +333,7 @@
       "vaccinationStatus": "Partially Vaccinated",
       "vaccineName": "Covaxin",
       "symptoms": "Cough",
-      "medicalHistory": null,
+      "medicalHistory": "",
       "site": "Mumbai"
     },
     {
@@ -345,7 +345,7 @@
       "vaccinationStatus": "Fully Vaccinated",
       "vaccineName": "Not Vaccinated",
       "symptoms": "Headache",
-      "medicalHistory": null,
+      "medicalHistory": "",
       "site": "Mumbai"
     },
     {
@@ -357,7 +357,7 @@
       "vaccinationStatus": "Not Vaccinated",
       "vaccineName": "Covishield",
       "symptoms": "Fatigue",
-      "medicalHistory": null,
+      "medicalHistory": "",
       "site": "Bangalore"
     },
     {
@@ -369,7 +369,7 @@
       "vaccinationStatus": "Partially Vaccinated",
       "vaccineName": "Covaxin",
       "symptoms": "Fatigue",
-      "medicalHistory": null,
+      "medicalHistory": "",
       "site": "Bangalore"
     },
     {
@@ -381,7 +381,7 @@
       "vaccinationStatus": "Not Vaccinated",
       "vaccineName": "Not Vaccinated",
       "symptoms": "Loss of Smell & Taste",
-      "medicalHistory": null,
+      "medicalHistory": "",
       "site": "Mumbai"
     },
     {
@@ -393,7 +393,7 @@
       "vaccinationStatus": "Partially Vaccinated",
       "vaccineName": "Not Vaccinated",
       "symptoms": "Loss of Smell & Taste",
-      "medicalHistory": null,
+      "medicalHistory": "",
       "site": "Mumbai"
     },
     {
@@ -405,7 +405,7 @@
       "vaccinationStatus": "Partially Vaccinated",
       "vaccineName": "Covishield",
       "symptoms": "Headache",
-      "medicalHistory": null,
+      "medicalHistory": "",
       "site": "Mumbai"
     },
     {
@@ -417,7 +417,7 @@
       "vaccinationStatus": "Fully Vaccinated",
       "vaccineName": "Covishield",
       "symptoms": "Cough",
-      "medicalHistory": null,
+      "medicalHistory": "",
       "site": "Bangalore"
     },
     {
@@ -429,7 +429,7 @@
       "vaccinationStatus": "Partially Vaccinated",
       "vaccineName": "Not Vaccinated",
       "symptoms": "Headache",
-      "medicalHistory": null,
+      "medicalHistory": "",
       "site": "Mumbai"
     },
     {
@@ -441,7 +441,7 @@
       "vaccinationStatus": "Fully Vaccinated",
       "vaccineName": "Not Vaccinated",
       "symptoms": "Loss of Smell & Taste",
-      "medicalHistory": null,
+      "medicalHistory": "",
       "site": "Mumbai"
     },
     {
@@ -453,7 +453,7 @@
       "vaccinationStatus": "Not Vaccinated",
       "vaccineName": "Not Vaccinated",
       "symptoms": "Fatigue",
-      "medicalHistory": null,
+      "medicalHistory": "",
       "site": "Mumbai"
     },
     {
@@ -465,7 +465,7 @@
       "vaccinationStatus": "Partially Vaccinated",
       "vaccineName": "Covishield",
       "symptoms": "Headache",
-      "medicalHistory": null,
+      "medicalHistory": "",
       "site": "Bangalore"
     },
     {
@@ -477,7 +477,7 @@
       "vaccinationStatus": "Fully Vaccinated",
       "vaccineName": "Covishield",
       "symptoms": "Headache",
-      "medicalHistory": null,
+      "medicalHistory": "",
       "site": "Bangalore"
     },
     {
@@ -489,7 +489,7 @@
       "vaccinationStatus": "Partially Vaccinated",
       "vaccineName": "Covaxin",
       "symptoms": "Shortness in breathing",
-      "medicalHistory": null,
+      "medicalHistory": "",
       "site": "Bangalore"
     },
     {
@@ -501,7 +501,7 @@
       "vaccinationStatus": "Not Vaccinated",
       "vaccineName": "Covaxin",
       "symptoms": "Loss of Smell & Taste",
-      "medicalHistory": null,
+      "medicalHistory": "",
       "site": "Mumbai"
     },
     {
@@ -513,7 +513,7 @@
       "vaccinationStatus": "Not Vaccinated",
       "vaccineName": "Not Vaccinated",
       "symptoms": "Loss of Smell & Taste",
-      "medicalHistory": null,
+      "medicalHistory": "",
       "site": "Mumbai"
     },
     {
@@ -525,7 +525,7 @@
       "vaccinationStatus": "Partially Vaccinated",
       "vaccineName": "Covaxin",
       "symptoms": "Shortness in breathing",
-      "medicalHistory": null,
+      "medicalHistory": "",
       "site": "Mumbai"
     },
     {
@@ -537,7 +537,7 @@
       "vaccinationStatus": "Partially Vaccinated",
       "vaccineName": "Covaxin",
       "symptoms": "Cough",
-      "medicalHistory": null,
+      "medicalHistory": "",
       "site": "Mumbai"
     },
     {
@@ -549,7 +549,7 @@
       "vaccinationStatus": "Not Vaccinated",
       "vaccineName": "Covaxin",
       "symptoms": "Fatigue",
-      "medicalHistory": null,
+      "medicalHistory": "",
       "site": "Mumbai"
     },
     {
@@ -561,7 +561,7 @@
       "vaccinationStatus": "Fully Vaccinated",
       "vaccineName": "Not Vaccinated",
       "symptoms": "Headache",
-      "medicalHistory": null,
+      "medicalHistory": "",
       "site": "Mumbai"
     },
     {
@@ -573,7 +573,7 @@
       "vaccinationStatus": "Partially Vaccinated",
       "vaccineName": "Not Vaccinated",
       "symptoms": "Cough",
-      "medicalHistory": null,
+      "medicalHistory": "",
       "site": "Bangalore"
     },
     {
@@ -585,7 +585,7 @@
       "vaccinationStatus": "Not Vaccinated",
       "vaccineName": "Not Vaccinated",
       "symptoms": "Chest pain",
-      "medicalHistory": null,
+      "medicalHistory": "",
       "site": "Bangalore"
     },
     {
@@ -597,7 +597,7 @@
       "vaccinationStatus": "Not Vaccinated",
       "vaccineName": "Not Vaccinated",
       "symptoms": "Cough",
-      "medicalHistory": null,
+      "medicalHistory": "",
       "site": "Bangalore"
     },
     {
@@ -609,7 +609,7 @@
       "vaccinationStatus": "Fully Vaccinated",
       "vaccineName": "Covishield",
       "symptoms": "Cough",
-      "medicalHistory": null,
+      "medicalHistory": "",
       "site": "Bangalore"
     },
     {
@@ -621,7 +621,7 @@
       "vaccinationStatus": "Fully Vaccinated",
       "vaccineName": "Covishield",
       "symptoms": "Chest pain",
-      "medicalHistory": null,
+      "medicalHistory": "",
       "site": "Bangalore"
     },
     {
@@ -633,7 +633,7 @@
       "vaccinationStatus": "Not Vaccinated",
       "vaccineName": "Covaxin",
       "symptoms": "Headache",
-      "medicalHistory": null,
+      "medicalHistory": "",
       "site": "Mumbai"
     },
     {
@@ -645,7 +645,7 @@
       "vaccinationStatus": "Partially Vaccinated",
       "vaccineName": "Not Vaccinated",
       "symptoms": "Loss of Smell & Taste",
-      "medicalHistory": null,
+      "medicalHistory": "",
       "site": "Bangalore"
     },
     {
@@ -657,7 +657,7 @@
       "vaccinationStatus": "Partially Vaccinated",
       "vaccineName": "Covishield",
       "symptoms": "Cough",
-      "medicalHistory": null,
+      "medicalHistory": "",
       "site": "Mumbai"
     },
     {
@@ -669,7 +669,7 @@
       "vaccinationStatus": "Not Vaccinated",
       "vaccineName": "Covishield",
       "symptoms": "Cough",
-      "medicalHistory": null,
+      "medicalHistory": "",
       "site": "Mumbai"
     },
     {
@@ -681,7 +681,7 @@
       "vaccinationStatus": "Partially Vaccinated",
       "vaccineName": "Covaxin",
       "symptoms": "Shortness in breathing",
-      "medicalHistory": null,
+      "medicalHistory": "",
       "site": "Bangalore"
     },
     {
@@ -693,7 +693,7 @@
       "vaccinationStatus": "Not Vaccinated",
       "vaccineName": "Not Vaccinated",
       "symptoms": "Cough",
-      "medicalHistory": null,
+      "medicalHistory": "",
       "site": "Bangalore"
     },
     {
@@ -705,7 +705,7 @@
       "vaccinationStatus": "Not Vaccinated",
       "vaccineName": "Covaxin",
       "symptoms": "Loss of Smell & Taste",
-      "medicalHistory": null,
+      "medicalHistory": "",
       "site": "Mumbai"
     },
     {
@@ -717,7 +717,7 @@
       "vaccinationStatus": "Not Vaccinated",
       "vaccineName": "Covaxin",
       "symptoms": "Shortness in breathing",
-      "medicalHistory": null,
+      "medicalHistory": "",
       "site": "Mumbai"
     },
     {
@@ -729,7 +729,7 @@
       "vaccinationStatus": "Fully Vaccinated",
       "vaccineName": "Covishield",
       "symptoms": "Loss of Smell & Taste",
-      "medicalHistory": null,
+      "medicalHistory": "",
       "site": "Bangalore"
     },
     {
@@ -741,7 +741,7 @@
       "vaccinationStatus": "Partially Vaccinated",
       "vaccineName": "Covaxin",
       "symptoms": "Cough",
-      "medicalHistory": null,
+      "medicalHistory": "",
       "site": "Bangalore"
     },
     {
@@ -753,7 +753,7 @@
       "vaccinationStatus": "Not Vaccinated",
       "vaccineName": "Covishield",
       "symptoms": "Cough",
-      "medicalHistory": null,
+      "medicalHistory": "",
       "site": "Bangalore"
     },
     {
@@ -765,7 +765,7 @@
       "vaccinationStatus": "Partially Vaccinated",
       "vaccineName": "Covaxin",
       "symptoms": "Chest pain",
-      "medicalHistory": null,
+      "medicalHistory": "",
       "site": "Bangalore"
     },
     {
@@ -777,7 +777,7 @@
       "vaccinationStatus": "Not Vaccinated",
       "vaccineName": "Covishield",
       "symptoms": "Cough",
-      "medicalHistory": null,
+      "medicalHistory": "",
       "site": "Bangalore"
     },
     {
@@ -789,7 +789,7 @@
       "vaccinationStatus": "Partially Vaccinated",
       "vaccineName": "Not Vaccinated",
       "symptoms": "Shortness in breathing",
-      "medicalHistory": null,
+      "medicalHistory": "",
       "site": "Bangalore"
     },
     {
@@ -801,7 +801,7 @@
       "vaccinationStatus": "Fully Vaccinated",
       "vaccineName": "Covishield",
       "symptoms": "Cough",
-      "medicalHistory": null,
+      "medicalHistory": "",
       "site": "Bangalore"
     },
     {
@@ -813,7 +813,7 @@
       "vaccinationStatus": "Fully Vaccinated",
       "vaccineName": "Not Vaccinated",
       "symptoms": "Chest pain",
-      "medicalHistory": null,
+      "medicalHistory": "",
       "site": "Mumbai"
     },
     {
@@ -825,7 +825,7 @@
       "vaccinationStatus": "Not Vaccinated",
       "vaccineName": "Covishield",
       "symptoms": "Loss of Smell & Taste",
-      "medicalHistory": null,
+      "medicalHistory": "",
       "site": "Mumbai"
     },
     {
@@ -837,7 +837,7 @@
       "vaccinationStatus": "Not Vaccinated",
       "vaccineName": "Covaxin",
       "symptoms": "Fatigue",
-      "medicalHistory": null,
+      "medicalHistory": "",
       "site": "Mumbai"
     },
     {
@@ -849,7 +849,7 @@
       "vaccinationStatus": "Not Vaccinated",
       "vaccineName": "Covaxin",
       "symptoms": "Loss of Smell & Taste",
-      "medicalHistory": null,
+      "medicalHistory": "",
       "site": "Mumbai"
     },
     {
@@ -861,7 +861,7 @@
       "vaccinationStatus": "Fully Vaccinated",
       "vaccineName": "Covishield",
       "symptoms": "Headache",
-      "medicalHistory": null,
+      "medicalHistory": "",
       "site": "Mumbai"
     },
     {
@@ -873,7 +873,7 @@
       "vaccinationStatus": "Fully Vaccinated",
       "vaccineName": "Covishield",
       "symptoms": "Chest pain",
-      "medicalHistory": null,
+      "medicalHistory": "",
       "site": "Mumbai"
     },
     {
@@ -885,7 +885,7 @@
       "vaccinationStatus": "Fully Vaccinated",
       "vaccineName": "Covaxin",
       "symptoms": "Chest pain",
-      "medicalHistory": null,
+      "medicalHistory": "",
       "site": "Mumbai"
     },
     {
@@ -897,7 +897,7 @@
       "vaccinationStatus": "Partially Vaccinated",
       "vaccineName": "Covishield",
       "symptoms": "Cough",
-      "medicalHistory": null,
+      "medicalHistory": "",
       "site": "Bangalore"
     },
     {
@@ -909,7 +909,7 @@
       "vaccinationStatus": "Partially Vaccinated",
       "vaccineName": "Covishield",
       "symptoms": "Shortness in breathing",
-      "medicalHistory": null,
+      "medicalHistory": "",
       "site": "Mumbai"
     },
     {
@@ -921,7 +921,7 @@
       "vaccinationStatus": "Fully Vaccinated",
       "vaccineName": "Not Vaccinated",
       "symptoms": "Cough",
-      "medicalHistory": null,
+      "medicalHistory": "",
       "site": "Mumbai"
     },
     {
@@ -933,7 +933,7 @@
       "vaccinationStatus": "Partially Vaccinated",
       "vaccineName": "Covaxin",
       "symptoms": "Chest pain",
-      "medicalHistory": null,
+      "medicalHistory": "",
       "site": "Mumbai"
     },
     {
@@ -945,7 +945,7 @@
       "vaccinationStatus": "Partially Vaccinated",
       "vaccineName": "Covaxin",
       "symptoms": "Headache",
-      "medicalHistory": null,
+      "medicalHistory": "",
       "site": "Bangalore"
     },
     {
@@ -957,7 +957,7 @@
       "vaccinationStatus": "Fully Vaccinated",
       "vaccineName": "Not Vaccinated",
       "symptoms": "Loss of Smell & Taste",
-      "medicalHistory": null,
+      "medicalHistory": "",
       "site": "Bangalore"
     },
     {
@@ -969,7 +969,7 @@
       "vaccinationStatus": "Partially Vaccinated",
       "vaccineName": "Not Vaccinated",
       "symptoms": "Loss of Smell & Taste",
-      "medicalHistory": null,
+      "medicalHistory": "",
       "site": "Bangalore"
     },
     {
@@ -981,7 +981,7 @@
       "vaccinationStatus": "Not Vaccinated",
       "vaccineName": "Covishield",
       "symptoms": "Fatigue",
-      "medicalHistory": null,
+      "medicalHistory": "",
       "site": "Mumbai"
     },
     {
@@ -993,7 +993,7 @@
       "vaccinationStatus": "Partially Vaccinated",
       "vaccineName": "Covaxin",
       "symptoms": "Cough",
-      "medicalHistory": null,
+      "medicalHistory": "",
       "site": "Mumbai"
     },
     {
@@ -1005,7 +1005,7 @@
       "vaccinationStatus": "Fully Vaccinated",
       "vaccineName": "Covaxin",
       "symptoms": "Chest pain",
-      "medicalHistory": null,
+      "medicalHistory": "",
       "site": "Mumbai"
     },
     {
@@ -1017,7 +1017,7 @@
       "vaccinationStatus": "Not Vaccinated",
       "vaccineName": "Covishield",
       "symptoms": "Fatigue",
-      "medicalHistory": null,
+      "medicalHistory": "",
       "site": "Bangalore"
     },
     {
@@ -1029,7 +1029,7 @@
       "vaccinationStatus": "Fully Vaccinated",
       "vaccineName": "Covaxin",
       "symptoms": "Cough",
-      "medicalHistory": null,
+      "medicalHistory": "",
       "site": "Bangalore"
     },
     {
@@ -1041,7 +1041,7 @@
       "vaccinationStatus": "Not Vaccinated",
       "vaccineName": "Covaxin",
       "symptoms": "Cough",
-      "medicalHistory": null,
+      "medicalHistory": "",
       "site": "Bangalore"
     },
     {
@@ -1053,7 +1053,7 @@
       "vaccinationStatus": "Partially Vaccinated",
       "vaccineName": "Covishield",
       "symptoms": "Headache",
-      "medicalHistory": null,
+      "medicalHistory": "",
       "site": "Mumbai"
     },
     {
@@ -1065,7 +1065,7 @@
       "vaccinationStatus": "Not Vaccinated",
       "vaccineName": "Covishield",
       "symptoms": "Fatigue",
-      "medicalHistory": null,
+      "medicalHistory": "",
       "site": "Mumbai"
     },
     {
@@ -1077,7 +1077,7 @@
       "vaccinationStatus": "Fully Vaccinated",
       "vaccineName": "Covaxin",
       "symptoms": "Cough",
-      "medicalHistory": null,
+      "medicalHistory": "",
       "site": "Bangalore"
     },
     {
@@ -1089,7 +1089,7 @@
       "vaccinationStatus": "Fully Vaccinated",
       "vaccineName": "Covishield",
       "symptoms": "Chest pain",
-      "medicalHistory": null,
+      "medicalHistory": "",
       "site": "Mumbai"
     },
     {
@@ -1101,7 +1101,7 @@
       "vaccinationStatus": "Partially Vaccinated",
       "vaccineName": "Covaxin",
       "symptoms": "Cough",
-      "medicalHistory": null,
+      "medicalHistory": "",
       "site": "Bangalore"
     },
     {
@@ -1113,7 +1113,7 @@
       "vaccinationStatus": "Fully Vaccinated",
       "vaccineName": "Covishield",
       "symptoms": "Fatigue",
-      "medicalHistory": null,
+      "medicalHistory": "",
       "site": "Bangalore"
     },
     {
@@ -1125,7 +1125,7 @@
       "vaccinationStatus": "Not Vaccinated",
       "vaccineName": "Covaxin",
       "symptoms": "Chest pain",
-      "medicalHistory": null,
+      "medicalHistory": "",
       "site": "Mumbai"
     },
     {
@@ -1137,7 +1137,7 @@
       "vaccinationStatus": "Partially Vaccinated",
       "vaccineName": "Covaxin",
       "symptoms": "Loss of Smell & Taste",
-      "medicalHistory": null,
+      "medicalHistory": "",
       "site": "Bangalore"
     },
     {
@@ -1149,7 +1149,7 @@
       "vaccinationStatus": "Not Vaccinated",
       "vaccineName": "Covaxin",
       "symptoms": "Shortness in breathing",
-      "medicalHistory": null,
+      "medicalHistory": "",
       "site": "Bangalore"
     },
     {
@@ -1161,7 +1161,7 @@
       "vaccinationStatus": "Fully Vaccinated",
       "vaccineName": "Covaxin",
       "symptoms": "Shortness in breathing",
-      "medicalHistory": null,
+      "medicalHistory": "",
       "site": "Mumbai"
     },
     {
@@ -1173,7 +1173,7 @@
       "vaccinationStatus": "Partially Vaccinated",
       "vaccineName": "Covaxin",
       "symptoms": "Headache",
-      "medicalHistory": null,
+      "medicalHistory": "",
       "site": "Mumbai"
     },
     {
@@ -1185,7 +1185,7 @@
       "vaccinationStatus": "Fully Vaccinated",
       "vaccineName": "Not Vaccinated",
       "symptoms": "Chest pain",
-      "medicalHistory": null,
+      "medicalHistory": "",
       "site": "Bangalore"
     },
     {
@@ -1197,7 +1197,7 @@
       "vaccinationStatus": "Not Vaccinated",
       "vaccineName": "Covaxin",
       "symptoms": "Shortness in breathing",
-      "medicalHistory": null,
+      "medicalHistory": "",
       "site": "Mumbai"
     }
   ]

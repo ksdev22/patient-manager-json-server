@@ -1,0 +1,52 @@
+{
+  "patients": [
+    {
+      "name": "Dev Kumar Singh",
+      "age": "12",
+      "gender": "Others",
+      "phone": "+919766920353",
+      "vaccinationStatus": "Partially Vaccinated",
+      "vaccineName": "Covishield",
+      "symptoms": "No symptoms",
+      "medicalHistory": "No history",
+      "site": "Bangalore",
+      "id": 1
+    },
+    {
+      "name": "John Doe",
+      "age": "32",
+      "gender": "Female",
+      "phone": "99999999",
+      "vaccinationStatus": "Not Vaccinated",
+      "vaccineName": "Covishield",
+      "symptoms": "Fever",
+      "medicalHistory": "No history",
+      "site": "Bangalore",
+      "id": 2
+    },
+    {
+      "name": "Singham",
+      "age": "45",
+      "gender": "Male",
+      "phone": "999999999999",
+      "vaccinationStatus": "Not Vaccinated",
+      "vaccineName": "Not Vaccinated",
+      "symptoms": "Nil",
+      "medicalHistory": "Never",
+      "site": "Mumbai",
+      "id": 3
+    },
+    {
+      "name": "Dev Kumar Singh",
+      "age": "23",
+      "gender": "Male",
+      "phone": "+919766920353",
+      "vaccinationStatus": "Fully Vaccinated",
+      "vaccineName": "Covaxin",
+      "symptoms": "No taste",
+      "medicalHistory": "No history",
+      "site": "Mumbai",
+      "id": 16
+    }
+  ]
+}
